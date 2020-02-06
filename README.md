@@ -1,1 +1,3 @@
-# gcp-scripts
+# Google Cloud (GCP) Services using CLI and/or Terraform
+
+Coming soon...
